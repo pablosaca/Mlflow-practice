@@ -38,7 +38,7 @@ modelling:
   threshold: 0.3
 
 mlflow_register:
-  experiment_id: "705325428535656634"
+  experiment_id: "834427568099485477"
   path_model_name: "uned_model"
   registered_model_name: "uned_tutorial_model"
   path_scale_name: "uned_scale"
